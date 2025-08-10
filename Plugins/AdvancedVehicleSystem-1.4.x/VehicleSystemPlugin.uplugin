@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 20,
+	"VersionName": "1.4.5",
+	"FriendlyName": "Advanced Vehicle System",
+	"Description": "System for creating physics based vehicles",
+	"Category": "Physics",
+	"CreatedBy": "Overtorque Creations LLC",
+	"CreatedByURL": "",
+	"DocsURL": "https://sites.google.com/view/vehicle-system-documentation/home",
+	"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/9577489aa3264ecf94142dad1bc2956c",
+	"SupportURL": "https://discord.gg/8YvWARS",
+	"CanContainContent": true,
+	"IsBetaVersion": true,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "VehicleSystemPlugin",
+			"Type": "Runtime",
+			"LoadingPhase": "PreLoadingScreen"
+		}
+	]
+}
